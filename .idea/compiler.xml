@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="app.app" target="1.8" />
+      <module name="app.engine_android" target="1.8" />
+      <module name="desktop" target="1.7" />
+      <module name="engine" target="1.7" />
+      <module name="engine_pc" target="1.7" />
+      <module name="logic" target="1.7" />
+      <module name="mainPC" target="1.7" />
+      <module name="pc" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

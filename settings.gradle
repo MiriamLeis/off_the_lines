@@ -1,0 +1,7 @@
+include ':engine_pc'
+include ':engine_android'
+include ':logic'
+include ':engine'
+include ':desktop'
+include ':app'
+rootProject.name = "app"
